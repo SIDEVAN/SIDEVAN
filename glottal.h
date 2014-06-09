@@ -20,3 +20,4 @@ extern void glottal(int32_T long_si, const int16_T si[], int32_T sf, int32_T lef
 	real_T par_vec_med[], real_T par_vec_std[], real_T ResultsPointRef[], real_T GloSourceRefPoint[], real_T GloFlowRefPoint[],
 	real_T ugn_lvl[], int32_T *ref_pnt, int32_T arg_min[], real_T *dist_vfolds);
 #endif
+
